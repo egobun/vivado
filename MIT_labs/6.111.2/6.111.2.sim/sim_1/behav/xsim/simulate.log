@@ -1,0 +1,4 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Starting Sim
+$finish called at time : 110 ns : File "C:/project/vivado/6.111.2/tb/simple_counter_tb.sv" Line 44
